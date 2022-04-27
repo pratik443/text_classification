@@ -1,0 +1,4 @@
+﻿Instructions to run the model:
+1) Open the Text_Classification_LSTM.ipynb file in colab
+2) Put the ds_config.json file and textclassification_lstm.py file in your path folder
+3) Run the Text_Classification_LSTM.ipynb
