@@ -1,0 +1,4 @@
+Instructions to run the model:
+1) Open the Text_Classification_CNN_Final.ipynb file in colab
+2) Put the ds_config.json file and textclassification_cnn.py file in your path folder
+3) Run the Text_Classification_CNN_Final.ipynb 
